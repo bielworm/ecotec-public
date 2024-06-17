@@ -1,0 +1,59 @@
+@media (max-width: 1080px) {
+  html {
+    font-size: 93.75%;
+  }
+}
+
+@media (max-width: 1080px) {
+  html {
+    font-size: 87.5%;
+  }
+}
+
+body,
+input,
+select,
+textarea,
+button {
+  font-family: 'Poppins', sans-serif;
+}
+
+.poppins-regular {
+  font-family: '__Poppins_35a7f6';
+  font-style: normal;
+  font-weight: 400; /* ou 600 para negrito */
+}
+
+.poppins-medium {
+  font-family: '__Poppins_35a7f6';
+  font-style: normal;
+  font-weight: 500; /* ou 600 para negrito */
+}
+
+.poppins-medium-italic {
+  font-family: '__Poppins_35a7f6';
+  font-style: italic;
+  font-weight: 500; /* ou 600 para negrito */
+}
+
+.poppins-semibold {
+  font-family: '__Poppins_35a7f6';
+  font-style: normal;
+  font-weight: 600; /* ou 600 para negrito */
+}
+
+.poppins-bold {
+  font-family: '__Poppins_35a7f6';
+  font-style: normal;
+  font-weight: 700; /* ou 600 para negrito */
+}
+
+* {
+  font-family: '__Poppins_35a7f6', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+// {
+//   font-family: 'GaramondPremrPro', serif;
+// }
