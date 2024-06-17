@@ -154,7 +154,7 @@ export default function SectionAbout() {
       </div>
 
       <div className="mt-12 flex justify-center">
-        <a href="#contato">
+        <a href="https://wa.me/5591920016588" target="_blank" rel="noreferrer">
           <Button variant="primaryBlue">FALE CONOSCO</Button>
         </a>
       </div>

@@ -17,14 +17,30 @@ export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: {
-    default: 'BPN14',
+    default: 'Ecotec',
     template:
-      '%s | Boilerplate Next 15 with Prismic, TypeScript and TailwindCSS',
+      'Energia solar de alta performance, economia extrema e eficiência sem limites!',
   },
-  description: 'Boilerplate Next 15 with Prismic, TypeScript and TailwindCSS',
-  keywords: ['Boilerplate', 'Next', 'Prismic', 'TypeScript', 'TailwindCSS'],
+  description:
+    'Energia solar de alta performance, economia extrema e eficiência sem limites!',
+  keywords: ['Ecotec', 'Energia', 'Solar', 'Energia Solar'],
   twitter: {
     card: 'summary_large_image',
+  },
+  openGraph: {
+    title: 'Ecotec',
+    description:
+      'Energia solar de alta performance, economia extrema e eficiência sem limites!',
+    images: [
+      {
+        url: 'https://ecotec-zeta.vercel.app/seo.png',
+        width: 1200,
+        height: 630,
+        alt: 'Ecotec',
+        type: 'image/png',
+      },
+    ],
+    siteName: 'https://ecotec-zeta.vercel.app',
   },
 }
 

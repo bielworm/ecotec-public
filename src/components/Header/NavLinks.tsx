@@ -16,7 +16,7 @@ export const navLinks = [
     name: 'SIMULAÇÃO',
   },
   {
-    route: '#',
+    route: 'https://wa.me/5591920016588',
     name: 'FALE CONOSCO',
   },
 ]

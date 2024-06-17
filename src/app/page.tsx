@@ -14,7 +14,7 @@ export async function generateMetadata(): Promise<Metadata> {
         'Energia solar de alta performance, economia extrema e eficiência sem limites!',
       images: [
         {
-          url: 'https://boilerplate-prismic-next14.vercel.app/seo.png',
+          url: 'https://ecotec-zeta.vercel.app/seo.png',
         },
       ],
     },
